@@ -15,7 +15,9 @@ A full-stack web application that provides real-time sentiment analysis for fina
 
 | Hero Section | Results Display |
 |:------------:|:---------------:|
-| ![Hero Section](path/to/your/hero_screenshot.png) | ![Results Display](path/to/your/results_screenshot.png) |
+| ![image](https://github.com/user-attachments/assets/23e0e434-34e3-4ce5-b4c3-592ee8701d0d)
+ | ![image](https://github.com/user-attachments/assets/45d27779-2238-4260-b7fd-8cd1512c67fe)
+|
 
 ## Tech Stack
 
