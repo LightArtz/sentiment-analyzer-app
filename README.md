@@ -10,10 +10,10 @@ A full-stack web application that provides real-time sentiment analysis for fina
 - **Interactive UI:** A modern, responsive interface built with Next.js and a futuristic, animated background.
 
 ## Screenshots
-| Hero Section | 
+**Hero Section**
 ![image](https://github.com/user-attachments/assets/23e0e434-34e3-4ce5-b4c3-592ee8701d0d)
 
-| Results Display |
+**Results Display**
 ![image](https://github.com/user-attachments/assets/45d27779-2238-4260-b7fd-8cd1512c67fe)
 
 ## Tech Stack
